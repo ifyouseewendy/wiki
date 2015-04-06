@@ -1,0 +1,5 @@
+## Behaviour
+
++ Proxy
++ Decorator
++ Adaptor
